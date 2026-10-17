@@ -1,0 +1,38 @@
+NUTRIENT_CODE,FLAVONOID_DESCRIPTION,FLAVONOID_CLASS,TAGNAME,UNIT,DECIMALS
+710.0,Daidzein,Isoflavones,DAIDZN,mg,2.0
+711.0,Genistein,Isoflavones,GNSTEIN,mg,2.0
+712.0,Glycitein,Isoflavones,GLYCTEIN,mg,2.0
+731.0,Cyanidin,Anthocyanidins,CYAD,mg,2.0
+740.0,Petunidin,Anthocyanidins,PETUNIDIN,mg,2.0
+741.0,Delphinidin,Anthocyanidins,DELPH,mg,2.0
+742.0,Malvidin,Anthocyanidins,MALVIDIN,mg,2.0
+743.0,Pelargonidin,Anthocyanidins,,mg,2.0
+745.0,Peonidin,Anthocyanidins,PEONIDIN,mg,2.0
+749.0,(+)-Catechin,Flavan-3-ols,,mg,2.0
+750.0,(-)-Epigallocatechin,Flavan-3-ols,EPICATEGC,mg,2.0
+751.0,(-)-Epicatechin,Flavan-3-ols,EPICATEC,mg,2.0
+752.0,(-)-Epicatechin 3-gallate,Flavan-3-ols,EPICATECG3,mg,2.0
+753.0,(-)-Epigallocatechin 3-gallate,Flavan-3-ols,,mg,2.0
+755.0,Theaflavin,Flavan-3-ols,,mg,2.0
+756.0,Thearubigins,Flavan-3-ols,,mg,2.0
+758.0,Eriodictyol,Flavanones,,mg,2.0
+759.0,Hesperetin,Flavanones,HESPT,mg,2.0
+762.0,Naringenin,Flavanones,NARING,mg,2.0
+770.0,Apigenin,Flavones,APIGEN,mg,2.0
+773.0,Luteolin,Flavones,LUTEOL,mg,2.0
+785.0,Isorhamnetin,Flavonols,,mg,2.0
+786.0,Kaempferol,Flavonols,KAEMF,mg,2.0
+788.0,Myricetin,Flavonols,MYRIC,mg,2.0
+789.0,Quercetin,Flavonols,QUERCE,mg,2.0
+791.0,"Theaflavin-3,3'-digallate",Flavan-3-ols,,mg,2.0
+792.0,Theaflavin-3'-gallate,Flavan-3-ols,,mg,2.0
+793.0,Theaflavin-3-gallate,Flavan-3-ols,,mg,2.0
+794.0,(+)-Gallocatechin,Flavan-3-ols,GALCATEGC,mg,2.0
+7000.0,Total flavonoids,,,mg,2.0
+7100.0,Total anthocyanidins,Anthocyanidins,,mg,2.0
+7200.0,Total catechins (monomeric flavan-3-ols only),Flavan-3-ols,,mg,2.0
+7300.0,Total flavan-3-ols,Flavan-3-ols,,mg,2.0
+7400.0,Total flavanones,Flavanones,,mg,2.0
+7500.0,Total flavones,Flavones,,mg,2.0
+7600.0,Total flavonols,Flavonols,,mg,2.0
+7700.0,Total isoflavones,Isoflavones,,mg,2.0
