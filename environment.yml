@@ -1,0 +1,13 @@
+name: ModelingFP
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - pandas
+  - ipykernel
+  - matplotlib
+  - scipy
+  - statsmodels
+  - scikit-learn
+prefix: /opt/anaconda3/envs/ModelingFP
